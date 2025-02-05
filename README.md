@@ -10,7 +10,7 @@
 
 
 
-<p align="center">[𝐚𝐭𝐚𝐛𝐨𝐨𝐤] (https://ambrfreeman.atabook.org/)</p>
+<p align="center"> [𝐚𝐭𝐚𝐛𝐨𝐨𝐤](https://ambrfreeman.atabook.org/) </p>
 
 
 <p align="center"><img width="580" src="https://github.com/user-attachments/assets/695b5c9d-4adc-4b5b-bd94-4454237170bf">

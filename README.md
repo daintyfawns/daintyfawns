@@ -1,6 +1,6 @@
 
 
-<p align="center"><img width="200" src="https://github.com/user-attachments/assets/695b5c9d-4adc-4b5b-bd94-4454237170bf">
+<p align="center"><img width="460" src="https://github.com/user-attachments/assets/695b5c9d-4adc-4b5b-bd94-4454237170bf">
 </p>
 
 <p align="center">♡   keep it to yourself .</p>

@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/755f8dea-d170-476e-bde0-63d86083aa59</p>
 
-
+<p align="center">♡   keep it to yourself .</p>
 
 <p align="center">♡   lesbian ,, blk</p>
 

@@ -8,8 +8,13 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/957026c0-33f3-49b5-a244-ee675251edd6">
 </p>
 
+<div align="center">
 
-<div align='center'>![𝐚𝐭𝐚𝐛𝐨𝐨𝐤](https://ambrfreeman.atabook.org/)</div>
+![𝐚𝐭𝐚𝐛𝐨𝐨𝐤](https://ambrfreeman.atabook.org/)
+![𝐬𝐩𝐨𝐭𝐢𝐟𝐲](https://open.spotify.com/user/rh2oqnubvlstyhpsucgotorqs)
+
+</div>
+
 
 
 <p align="center"><img width="580" src="https://github.com/user-attachments/assets/695b5c9d-4adc-4b5b-bd94-4454237170bf">

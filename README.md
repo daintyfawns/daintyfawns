@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/66b40a05-98ea-4e7b-b43c-5dc2c0cad184">
+<p align="center"><img src="https://github.com/user-attachments/assets/79b2ba02-735f-4d68-bafa-5ab00d2f3df0">
 </p>
 
 <p align="center">♡   keep it to yourself .</p>
@@ -11,7 +11,7 @@
 
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/66b40a05-98ea-4e7b-b43c-5dc2c0cad184">
+<p align="center"><img src="https://github.com/user-attachments/assets/79b2ba02-735f-4d68-bafa-5ab00d2f3df0">
 </p>
 
 

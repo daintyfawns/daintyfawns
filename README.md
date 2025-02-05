@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![𝐚𝐭𝐚𝐛𝐨𝐨𝐤](https://ambrfreeman.atabook.org/)
-![𝐬𝐩𝐨𝐭𝐢𝐟𝐲](https://open.spotify.com/user/rh2oqnubvlstyhpsucgotorqs)
+[𝐚𝐭𝐚𝐛𝐨𝐨𝐤](https://ambrfreeman.atabook.org/)
+[𝐬𝐩𝐨𝐭𝐢𝐟𝐲](https://open.spotify.com/user/rh2oqnubvlstyhpsucgotorqs)
 
 </div>
 

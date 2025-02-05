@@ -5,8 +5,8 @@
 
 <p align="center">♡   keep it to yourself .</p>
 
-
-div style="text-align: center;"><img width="100%" src="https://github.com/user-attachments/assets/72e054ae-8d8c-4b89-97a4-f1eedf275f81"></div>
+<p align="center"><img src="https://github.com/user-attachments/assets/957026c0-33f3-49b5-a244-ee675251edd6">
+</p>
 
 
 
